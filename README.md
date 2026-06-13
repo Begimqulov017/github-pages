@@ -2,7 +2,7 @@
 
 # 👋 Salom, men Begimqulov Ahror!
 
-### 🚀 Junior Web Developer | Python Enthusiast | STEM Champion
+### 🚀 Junior Web Developer | Python Enthusiast | STEM Champion in Region
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-017portfolio.netlify.app-blue?style=for-the-badge)](https://017portfolio.netlify.app/)
 [![Telegram](https://img.shields.io/badge/Telegram-@Begimqulov__017-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Begimqulov_017)
